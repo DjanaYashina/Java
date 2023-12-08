@@ -57,6 +57,6 @@ public class Toy implements Comparable<Toy> {
                 "Id игрушки = " + toysId +
                 ", наименование игрушки = " + toysName +
                 ", частота выпадения игрушки =" + toysChanceFrequency +
-                '}';
+                '}' + "\n";
     }
 }
