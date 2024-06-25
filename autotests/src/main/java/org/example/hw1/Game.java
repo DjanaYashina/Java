@@ -69,7 +69,6 @@ public class Game {
             newSelectedDoor.setSelected(true);
         }
 
-
     }
 
     public void openSelectedDoor() {

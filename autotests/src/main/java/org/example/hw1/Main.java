@@ -8,7 +8,6 @@ public class Main {
         String again = "";
         Game game = new Game();
 
-
         do {
             game.startGame();
             System.out.println("Выберите одну из дверей (число от 1 до 3): ");
